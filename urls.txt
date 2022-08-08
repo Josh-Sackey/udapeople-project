@@ -1,0 +1,7 @@
+URL01: https://github.com/yoophie97/udapeople-project.git
+URL02: http://udapeople-a159e41.s3-website-us-east-1.amazonaws.com
+URL03: http://doo65pxvnk2ah.cloudfront.net/#/employees
+URL03: http://udapeople-20c2cc6.s3-website-us-east-1.amazonaws.com
+URL04: http://ec2-34-236-105-46.compute-1.amazonaws.com:3030/api/status
+URL05: http://ec2-34-236-105-46.compute-1.amazonaws.com:9090/graph
+
